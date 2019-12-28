@@ -10,3 +10,5 @@ rusty-tags.*
 *~
 \#*\#
 docs/book
+*.iml
+.idea
